@@ -10,12 +10,12 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>chuck-norris-for-actuator</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>chuck-norris-for-actuator</name>
     <description>Chuck Norris Jokes</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
 
     <dependencies>
